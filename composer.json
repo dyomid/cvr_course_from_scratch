@@ -1,0 +1,16 @@
+{
+    "name": "emx/gpb",
+    "description": "GPB проект \"Праздничная интуиция\"",
+    "autoload": {
+        "psr-4": {
+            "Emx\\Gpb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavel",
+            "email": "paul129@yandex.ru"
+        }
+    ],
+    "require": {}
+}
